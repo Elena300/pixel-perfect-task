@@ -90,6 +90,7 @@ p {
 
 .name {
   margin-top: 6.6%;
+  margin-left: 10%;
   height: 16px;
   font-family: Roboto;
   font-size: 14px;
@@ -100,6 +101,7 @@ p {
 
 .title {
   margin-top: 3%;
+  margin-left: 10%;
   width: 152px;
   height: 16px;
   font-family: Roboto;
@@ -111,6 +113,7 @@ p {
 
 .networks {
   margin-top: 3%;
+  margin-left: 10%;
   width: 60px;
   height: 30px;
 }
